@@ -3,21 +3,25 @@ CheckBox 单选、多选、反选、全选示例
 
 # 单选
 </br>![image](https://github.com/cnwutianhao/CheckBox/blob/master/screenshots/%E5%8D%95%E9%80%89.gif)
+</br>
 </br>示例代码：
 </br>https://github.com/cnwutianhao/CheckBox/tree/master/app/src/main/java/com/haocent/android/checkbox/single
 
 # 多选
 </br>![image](https://github.com/cnwutianhao/CheckBox/blob/master/screenshots/%E5%A4%9A%E9%80%89.gif)
+</br>
 </br>示例代码：
 </br>https://github.com/cnwutianhao/CheckBox/tree/master/app/src/main/java/com/haocent/android/checkbox/multi
 
 # 反选
 </br>![image](https://github.com/cnwutianhao/CheckBox/blob/master/screenshots/%E5%8F%8D%E9%80%89.gif)
+</br>
 </br>示例代码：
 </br>https://github.com/cnwutianhao/CheckBox/tree/master/app/src/main/java/com/haocent/android/checkbox/invert
 
 # 全选
 </br>![image](https://github.com/cnwutianhao/CheckBox/blob/master/screenshots/%E5%85%A8%E9%80%89.gif)
+</br>
 </br>示例代码：
 </br>https://github.com/cnwutianhao/CheckBox/tree/master/app/src/main/java/com/haocent/android/checkbox/selectall
 
